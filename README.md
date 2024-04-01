@@ -1,4 +1,4 @@
-# ansible-config-mgt2
+# ansible-config-mgt
 
 Testing the ansible build
 
